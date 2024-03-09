@@ -31,4 +31,8 @@
 ## 恋爱脑系列
 😍 恋爱脑加速器 [点击查看](https://chat.openai.com/g/g-vqGAXWrjR-lian-ai-nao-jia-su-qi) 
 
+<img src="img/恋爱脑加速器.png" width="700">
+
 😍 叫醒恋爱脑 [点击查看](https://chat.openai.com/g/g-wTbBOnnsT-jiao-xing-lian-ai-nao) 
+
+<img src="img/叫醒恋爱脑.png" width="700">
