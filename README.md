@@ -1,7 +1,6 @@
 # 我的GPTs
 在此汇总我制作的实用或好玩的GPTs，持续更新中
 
-
 ## 漫画系列
 视频脚本生成器 [点击查看](https://chat.openai.com/g/g-bpRMUt6Sy-shi-pin-jiao-ben-sheng-cheng-qi) 。输入小说原文，即拆解为分镜描述和提示词。
 
